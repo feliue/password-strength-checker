@@ -117,6 +117,6 @@ MIT License — free to use and modify.
 
 ## 👤 Author
 
-**[Your Name]**  
+**[abdulhakeem Umar toyin]**  
 Cybersecurity Student  
-GitHub: [@YourUsername](https://github.com/YourUsername)
+GitHub: [@faliue](https://github.com/faliue)
