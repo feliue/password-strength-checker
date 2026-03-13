@@ -1,8 +1,8 @@
 """
 ==============================================
   Password Strength Checker
-  Author: [Your Name]
-  GitHub: [Your GitHub Username]
+  Author: [Abdulhakeem Umar]
+  GitHub: [toyin]
   Description: A cybersecurity tool that analyzes
                password strength and gives feedback
 ==============================================
